@@ -1,5 +1,8 @@
 # hifiasm2txt
 A small tool to convert hifiasm bin files (`ec.bin`, `ovlp.source.bin` and `ovlp.reverse.bin`) to text format.
+- `ec.bin`: error corrected reads.
+- `ovlp.source.bin`: overlaps between reads from the same haplotype (?).
+- `ovlp.reverse.bin`: overlaps between reads from the different haplotype (?).
 
 ## Installation
 
